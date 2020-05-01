@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(grey, white);
+}
+
+.my-container {
+    position: relative;
+    width: 25rem;
+    height: 23.5rem;
+    margin-top: 5rem;
+    background-color: black;
+    text-align: center;
+    box-shadow: 10px 10px;
+}
+.digit-btn {
+    margin-top: 10px;
+}
